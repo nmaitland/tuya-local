@@ -3,6 +3,9 @@ products:
   - id: m3j5wouhgsvjlma9
     manufacturer: Beok / Avatto
     model: TGM50 / WT200 / M3-GE
+  - id: daltzmaeoxybutqs
+    manufacturer: Beok / Avatto
+    model: SH-TGM50 WP
 entities:
   - entity: climate
     translation_only_key: thermostat
